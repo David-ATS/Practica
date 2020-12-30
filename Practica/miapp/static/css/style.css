@@ -7,14 +7,14 @@
 }
 
 body{
-    background-color: #f2f2f2;
+    background-color: #ffef79;
 }
 
 /*Estilos de la Cabecera*/
 header{
     width: 1212px;
     height: 140px;
-    background-color: #23282B;
+    background-color: #dac739;
     margin: 0 auto;
 }
 
@@ -39,7 +39,7 @@ header{
     margin-left: 20px;
     letter-spacing: 2px;
     font-weight: lighter;
-    color: #2ba977;
+    color: #ffffff;
 }
 
 /*Estilos para Navegación*/
@@ -49,9 +49,9 @@ nav{
     width: 1250px;
     height: 40px;
     margin: 0 auto;
-    background-color: #1B1E1F;
-    border: 1px solid #333333;
-    box-shadow: 0px 22px 22px gray;
+    background-color: #001922;
+    border: 1px solid #00374b;
+    box-shadow: 0px 22px 22px rgb(180, 210, 255);
     font-size: 15px;
 }
 
@@ -75,7 +75,7 @@ nav ul li a{
 
 /*Efecto en los Hipervínculos*/
 nav ul li a:hover{
-    background: #2ba977;
+    background: #4e80af;
     box-shadow: 0px 0px 0px #444 inset;
     color: white;
     transition: all 300ms;
@@ -90,14 +90,14 @@ nav ul li a:hover{
 .esquina-izquierda{
     display: block;
     border-left: 20px solid transparent;
-    border-top: 10px solid #2B2F30;
+    border-top: 10px solid #5b5d5e;
     float: left;
 }
 
 .esquina-derecha{
     display: block;
     border-right: 20px solid transparent;
-    border-top: 10px solid #2B2F30;
+    border-top: 10px solid #5b5d5e;
     float: right;
 }
 
@@ -106,7 +106,7 @@ nav ul li a:hover{
     display: block;
     width: 1210px;
     height: 10px;
-    background: #2B2F30;
+    background: #5b5d5e;
     float: left;
     
 }
