@@ -2,7 +2,7 @@ from django.shortcuts import render, HttpResponse, redirect
 
 # Create your views here.
 layout = """
-    <h1> Proyecto Web (LP3) || Flor Cerdán </h1>
+    <h1> Proyecto Web (LP3) || Grupo 01 </h1>
     <hr/>
     <ul>
         <li>
